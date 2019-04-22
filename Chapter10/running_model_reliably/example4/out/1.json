@@ -1,0 +1,13 @@
+{
+    "predicted_diabetes_progression": 210.7100380636835,
+    "independent_variables": [
+        {
+            "name": "bmi",
+            "value": 0.0616962065187
+        },
+        {
+            "name": "ltg",
+            "value": 0.0199084208763
+        }
+    ]
+}
