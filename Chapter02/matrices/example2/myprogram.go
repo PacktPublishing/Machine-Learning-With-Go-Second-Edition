@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gonum/matrix/mat64"
+	"gonum.org/v1/gonum/mat"
 )
 
 func main() {
@@ -12,18 +12,18 @@ func main() {
 	data := []float64{1.2, -5.7, -2.4, 7.3}
 
 	// Form our matrix.
-	a := mat64.NewDense(2, 2, data)
+	a := mat.NewDense(2, 2, data)
 
 	// Get a single value from the matrix.
 	val := a.At(0, 1)
 	fmt.Printf("The value of a at (0,1) is: %.2f\n\n", val)
 
 	// Get the values in a specific column.
-	col := mat64.Col(nil, 0, a)
+	col := mat.Col(nil, 0, a)
 	fmt.Printf("The values in the 1st column are: %v\n\n", col)
 
 	// Get the values in a kspecific row.
-	row := mat64.Row(nil, 1, a)
+	row := mat.Row(nil, 1, a)
 	fmt.Printf("The values in the 2nd row are: %v\n\n", row)
 
 	// Modify a single element.
@@ -36,6 +36,6 @@ func main() {
 	a.SetCol(0, []float64{1.7, -0.3})
 
 	// As a sanity check, output the matrix to standard out.
-	fa := mat64.Formatted(a, mat64.Prefix("    "))
+	fa := mat.Formatted(a, mat.Prefix("    "))
 	fmt.Printf("A = %v\n\n", fa)
 }

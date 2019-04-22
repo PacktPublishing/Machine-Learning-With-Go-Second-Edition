@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gonum/matrix/mat64"
+	"gonum.org/v1/gonum/mat"
 )
 
 func main() {
@@ -12,9 +12,9 @@ func main() {
 	data := []float64{1.2, -5.7, -2.4, 7.3}
 
 	// Form our matrix.
-	a := mat64.NewDense(2, 2, data)
+	a := mat.NewDense(2, 2, data)
 
 	// As a sanity check, output the matrix to standard out.
-	fa := mat64.Formatted(a, mat64.Prefix("    "))
+	fa := mat.Formatted(a, mat.Prefix("    "))
 	fmt.Printf("A = %v\n\n", fa)
 }
