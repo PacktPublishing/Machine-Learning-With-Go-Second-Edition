@@ -1,0 +1,9 @@
+{
+    "intercept": 152.13348416289733,
+    "coefficients": [
+        {
+            "name": "bmi",
+            "coefficient": 949.4352603839872
+        }
+    ]
+}
