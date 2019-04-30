@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/kniren/gota/dataframe"
+	"github.com/go-gota/gota/dataframe"
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/plotter"
 	"gonum.org/v1/plot/vg"
