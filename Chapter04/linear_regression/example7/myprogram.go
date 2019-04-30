@@ -8,7 +8,7 @@ import (
 	"github.com/gonum/plot"
 	"github.com/gonum/plot/plotter"
 	"github.com/gonum/plot/vg"
-	"github.com/kniren/gota/dataframe"
+	"github.com/go-gota/gota/dataframe"
 )
 
 func main() {
