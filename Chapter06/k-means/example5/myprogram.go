@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/gonum/floats"
-	"github.com/kniren/gota/dataframe"
+	"github.com/go-gota/gota/dataframe"
 )
 
 func main() {
