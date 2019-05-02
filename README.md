@@ -1,6 +1,6 @@
 # Machine Learning With  Go - Second Edition
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789619898"><img src="https://www.packtpub.com/sites/default/files/Cover_B12321.png" alt="Machine Learning With  Go - Second Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789619898"><img src="https://www.packtpub.com/sites/default/files/9781789619898cover.png" alt="Machine Learning With  Go - Second Edition" height="256px" align="right"></a>
 
 This is the code repository for [Machine Learning With  Go - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789619898), published by Packt.
 
