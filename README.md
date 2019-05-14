@@ -51,7 +51,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789619898_ColorImages.pdf).
 
 
-### Related products <Other books you may enjoy>
+### Related product <Other books you may enjoy>
 * Go Machine Learning Projects [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/go-machine-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788993401) [[Amazon]](https://www.amazon.com/dp/1788993403)
 
 
@@ -63,7 +63,7 @@ is a trained PhD data scientist with over 10 years' experience working on data-i
 works as a senior research and analytics consultant for a start-up in Trichy, TamilNadu. She is a mathematics graduate with PhD in environmental management. Her current interests include data wrangling and visualization, machine learning, and geospatial modeling. She currently trains students in data science and works as a consultant on several data-driven projects in a variety of domains. She is an R programming expert and founder of the R-Ladies Trichy group, a group that promotes gender diversity. She has served as a reviewer for Go-Machine learning Projects book.
 
 
-## Other books by the authors
+## Another book by the author
 * [Machine Learning With Go](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go?utm_source=github&utm_medium=repository&utm_campaign=9781785882104)
 
 ### Suggestions and Feedback
