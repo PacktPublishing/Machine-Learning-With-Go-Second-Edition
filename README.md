@@ -55,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Go Machine Learning Projects [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/go-machine-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788993401) [[Amazon]](https://www.amazon.com/dp/1788993403)
 
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Daniel Whitenack**
 is a trained PhD data scientist with over 10 years' experience working on data-intensive applications in industry and academia. Recently, Daniel has focused his development efforts on open source projects related to running machine learning (ML) and artificial intelligence (AI) in cloud-native infrastructure (Kubernetes, for instance), maintaining reproducibility and provenance for complex data pipelines, and implementing ML/AI methods in new languages such as Go. Daniel co-hosts the Practical AI podcast, teaches data science/engineering at Ardan Labs and Purdue University, and has spoken at conferences around the world (including ODSC, PyCon, DataEngConf, QCon, GopherCon, Spark Summit, and Applied ML Days, among others).
 
