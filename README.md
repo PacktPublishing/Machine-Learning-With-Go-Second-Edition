@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Machine Learning With  Go - Second Edition
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789619898"><img src="https://www.packtpub.com/sites/default/files/9781789619898cover.png" alt="Machine Learning With  Go - Second Edition" height="256px" align="right"></a>
